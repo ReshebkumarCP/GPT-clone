@@ -1,4 +1,4 @@
-resheb
+Name
 aabid
 aabida
 aachal
@@ -222,7 +222,7 @@ akshita
 akshpaat
 akthari
 aktri
-al0k
+al k
 alahbasri
 alam
 alapna
@@ -292,7 +292,7 @@ amiri
 amirul
 amisha
 amit
-amit,
+amit
 amita
 amjad
 amjat
@@ -2642,14 +2642,14 @@ kishn
 kishnaram
 kishor
 kishore
-kismat/
+kismat
 kismti
 kisori
 kiswar
 kitti
 klash
 klu
-km0
+km
 kmles
 kmo
 knheyalal
@@ -3250,7 +3250,7 @@ modh
 mogan
 mogli
 moh
-moh0
+moh
 mohabbat
 mohad
 mohak
@@ -3483,7 +3483,7 @@ nameeta
 namen
 namita
 namra
-""
+
 nana
 nanagram
 nanak
@@ -4020,7 +4020,7 @@ poma
 poneem
 pooga
 pooja
-pooja/varsha
+pooja varsha
 poojadevi
 pool
 poonam
@@ -4180,7 +4180,7 @@ pushpendr
 pushpendra
 puskar
 puspa
-puspa&
+puspa
 puspak
 puspendar
 puspender
@@ -4199,7 +4199,7 @@ rabiya
 rabpreet
 rachana
 rachna
-rachna(with
+rachna with
 rachnu
 rachpreet
 rada
@@ -4319,7 +4319,7 @@ rajputra
 rajrani
 rajshree
 raju
-raju,
+raju
 rajuddin
 rajudi
 rajveer
@@ -4587,7 +4587,7 @@ rimpi
 rimpy
 rimzim
 rina
-rina/
+rina
 rinesh
 rini
 rinju
@@ -4742,7 +4742,7 @@ ruvi
 ruzina
 rvina
 rvindra
-s/o
+s o
 saad
 saahil
 saahin
@@ -4784,7 +4784,7 @@ sachi
 sachidanand
 sachin
 sadab
-sadab(khura)
+sadab khura
 sadabrij
 saddam
 saddham
@@ -4985,7 +4985,7 @@ sanat
 sanaullah
 sanavvar
 sanchit
-sandee[
+sandee
 sandeep
 sandeepa
 sandha
@@ -5169,7 +5169,7 @@ savia
 saviha
 savina
 savita
-savita,
+savita
 saviti
 savitri
 savreen
@@ -5330,7 +5330,7 @@ shakun
 shakuna
 shakuntala
 shakuntla
-shakuntla/baby
+shakuntla baby
 shakutal
 shalender
 shalesh
@@ -5455,7 +5455,7 @@ shetal
 shetan
 shgita
 shi
-shi8vprakash
+shi vprakash
 shib
 shiba
 shibu
@@ -5645,7 +5645,7 @@ smariti
 smarti
 smriti
 smt
-smt,
+smt
 smts
 sna
 snah
@@ -5702,7 +5702,7 @@ soni
 sonia
 sonika
 soniya
-soniya,
+soniya
 sonu
 sony
 sonyi
@@ -6385,7 +6385,7 @@ vivekanand
 vrendra
 vude
 vyelet
-w/o
+w o
 waheeda
 wahid
 wajuddin
